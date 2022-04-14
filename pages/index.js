@@ -51,7 +51,7 @@ export default function Home() {
 					</p>
 					<p className={styles.code_container}>
 						💼 In the past I have worked as a Software Engineering
-						Academic Intern at JPMorgan Chase &38; Co. - Palo Alto
+						Academic Intern at JPMorgan Chase & Co. - Palo Alto
 						Office
 					</p>
 					<p className={styles.code_container}>
@@ -65,8 +65,8 @@ export default function Home() {
 				</pre>
 				<p>
 					This website can serve you and your projects. This page is
-					hosted directly from your GitHub repository. Just edit,
-					push, and your changes are live!
+					hosted by Vercel. Just edit, push, and your changes are
+					live!
 				</p>
 			</main>
 		</div>

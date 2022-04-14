@@ -49,6 +49,7 @@
 	padding: 1em 0.5em; /* Adds space to the left and right of our element */
 	max-width: 700px; /* Sets the maximum width among all elements inside of this container */
 	margin: 0 auto; /* Guarantees that the left and right margins will be set to the same size, top and bottom are set to 0 */
+	font-family: "Chakra Petch"; /* Makes our current font name change to Chakra Petch wherever possible in our body */
 }
 
 /* Our navigation links are centered and made to look pretty */
